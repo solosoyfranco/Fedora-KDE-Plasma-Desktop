@@ -8,5 +8,7 @@ This script is largely inspired by WinUtil by Chris Titus, adapted to fit my wor
 ---
 To start, run the command in your terminal:
 
-`curl -fsSL https://raw.githubusercontent.com/solosoyfranco/Fedora-KDE-Plasma-Desktop/main/setup.sh | sh`
+```
+curl -fsSL https://raw.githubusercontent.com/solosoyfranco/Fedora-KDE-Plasma-Desktop/main/setup.sh | sh
+```
 
