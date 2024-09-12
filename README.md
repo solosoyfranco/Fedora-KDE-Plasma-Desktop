@@ -11,4 +11,3 @@ To start, run the command in your terminal:
 ```
 curl -fsSL https://raw.githubusercontent.com/solosoyfranco/Fedora-KDE-Plasma-Desktop/main/setup.sh | sh
 ```
-
