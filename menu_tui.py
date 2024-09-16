@@ -3,7 +3,7 @@ import platform
 import os
 import psutil  # For system stats
 import socket  # For getting local IP address
-import requests  # For fetching WAN (public) IP address
+import requests  # For fetching WAN (public) IP 
 
 # Function to get system info, including disk, memory, and network (IP addresses)
 def get_sys_info():
